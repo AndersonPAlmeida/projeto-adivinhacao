@@ -68,7 +68,7 @@ input, button {
    padding: 1.6rem;
 }
 form input {
-   width: 5rem;
+   width: 5.5rem;
    border: 1px solid transparent;
    background-color: var(--color-input);
    border-radius: .4rem 0 0 .4rem;
